@@ -1,6 +1,6 @@
 variable "username"{
     type=string
-    default = "riddh"
+    default = "riddh Gore"
 }
 variable "age" {
     type=number
